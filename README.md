@@ -109,8 +109,9 @@ php think quark auto
 如果这个项目让你受益，你可以打赏我1块钱，让我知道开源有价值。谢谢！
 
 <div>
-<text>👇👇微信👇👇</text>
-<text style="padding-left: 50px">👇👇支付宝👇👇</text>
+👇👇微信👇👇
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+👇👇支付宝👇👇
 </div>
 <img src="https://files.ycubbs.cn/image/public/wx-dashang.png" alt="微信打赏" style="width:200px;height: 200px" width="200" height="200"/>
 
