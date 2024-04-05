@@ -110,7 +110,7 @@ php think quark auto
 
 <div>
 <text>👇👇微信👇👇</text>
-<text style="padding-left: 50px">👇👇支付宝👇👇</text>
+<text style="padding-left: 100px">👇👇支付宝👇👇</text>
 </div>
 <img src="https://files.ycubbs.cn/image/public/wx-dashang.png" alt="微信打赏" style="width:200px;height: 200px" width="200" height="200"/>
 
