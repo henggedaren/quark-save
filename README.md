@@ -111,5 +111,3 @@ php think quark auto
 <img src="https://files.ycubbs.cn/image/public/wx-dashang.png" alt="微信打赏" style="width:300px;height: 300px"/>
 
 <img src="https://files.ycubbs.cn/image/public/zfb-dashang.png" alt="微信打赏" style="width:300px;height: 300px"/>
-
-
