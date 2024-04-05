@@ -1,5 +1,9 @@
 # 夸克网盘自动转存
 
+夸克网盘签到、自动转存、自动分享一条龙。
+
+配合定期任务执行食用更佳。🥳
+
 ## 声明
 
 本程序为个人兴趣开发，开源仅供学习与交流使用。
@@ -106,8 +110,8 @@ php think quark auto
 
 <div>
 <text>👇👇微信👇👇</text>
-<text style="padding-left: 200px">👇👇支付宝👇👇</text>
+<text style="padding-left: 50px">👇👇支付宝👇👇</text>
 </div>
-<img src="https://files.ycubbs.cn/image/public/wx-dashang.png" alt="微信打赏" style="width:300px;height: 300px"/>
+<img src="https://files.ycubbs.cn/image/public/wx-dashang.png" alt="微信打赏" style="width:200px;height: 200px"/>
 
-<img src="https://files.ycubbs.cn/image/public/zfb-dashang.png" alt="微信打赏" style="width:300px;height: 300px"/>
+<img src="https://files.ycubbs.cn/image/public/zfb-dashang.png" alt="微信打赏" style="width:200px;height: 200px"/>
