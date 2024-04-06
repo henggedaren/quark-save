@@ -39,7 +39,7 @@ https://ai-img.ycubbs.cn/api/duanju/daily
 1、自动签到
 
 ~~~
-php think quark sign
+php ./QuarkService.php --options sign
 
 要确保当前目录下cookie.txt有可用cookie
 ~~~
@@ -47,7 +47,7 @@ php think quark sign
 2、自动转存
 
 ~~~
-php think quark save
+php ./QuarkService.php --options save
 
 必填参数
 
@@ -65,7 +65,7 @@ php think quark save
 > 注意：分享前需要先执行4、同步目录
 
 ~~~
-php think quark share
+php ./QuarkService.php --options share
 
 可选参数
 
@@ -77,7 +77,7 @@ php think quark share
 4、同步目录
 
 ~~~
-php think quark syn_dir
+php ./QuarkService.php --options syn_dir
 
 可选参数
 
@@ -87,7 +87,7 @@ php think quark syn_dir
 5、自动同步更新
 
 ~~~
-php think quark auto
+php ./QuarkService.php --options auto
 
 可选参数
 
