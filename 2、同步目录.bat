@@ -1,0 +1,1 @@
+start php ./QuarkService.php --options syn_dir

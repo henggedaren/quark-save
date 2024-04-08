@@ -1,0 +1,1 @@
+start php ./QuarkService.php --options auto --update 'daily' --type 'repeat'

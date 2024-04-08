@@ -100,6 +100,10 @@ php ./QuarkService.php --options auto
 --type 'repeat' 重复性检测，为空则不进行重复检测
 ~~~
 
+## windows批量处理脚本
+
+> 可直接双击运行对应的.bat文件
+
 ## 沟通交流
 
 使用中您有任何问题可以进群交流：331446855 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=alwjBo-4oy8uA3dN6m9xuevF9hxPn2Mg&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="技术交流" title="技术交流"></a>
